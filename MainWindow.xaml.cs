@@ -69,6 +69,7 @@ namespace Registro_de_Usuario
             this.DataContext = this.usuarios;
         }
 
+        /*Cambio key por paso*/
         private void guardarbotton_Click(object sender, RoutedEventArgs e)
         {
             if (!Validacion())
@@ -94,6 +95,7 @@ namespace Registro_de_Usuario
 
         private void Nuevobotton_Click(object sender, RoutedEventArgs e)
         {
+            Limpiar();
 
         }
 
