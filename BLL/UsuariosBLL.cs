@@ -30,7 +30,6 @@ namespace Registro_de_Usuario.BLL
                 contexto.Dispose();
             }
             return encontrado;
-
         }
 
         //Metodo Insertar 

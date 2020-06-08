@@ -50,7 +50,6 @@ namespace Registro_de_Usuario
                     MessageBoxButton.OK, MessageBoxImage.Warning);
             }
             return valido;
-
         }
 
         private void BuscarButton_Click(object sender, RoutedEventArgs e)
