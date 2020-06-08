@@ -54,7 +54,7 @@
                 <Button Name="eliminarButton" Width="84" Height="20" HorizontalContentAlignment="Left" Margin="23,0,0,0" Click="EliminarButton_Click">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/Resources/Eliminar.png" />
-                        <Label Content="Eliminar" FontWeight="Bold" Padding="-2"/> <!--Width="48"/>-->
+                        <Label Content="Eliminar" FontWeight="Bold" Padding="-2"/>
                     </StackPanel>
                 </Button>
 

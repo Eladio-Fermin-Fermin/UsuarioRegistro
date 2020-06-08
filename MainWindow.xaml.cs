@@ -92,10 +92,9 @@ namespace Registro_de_Usuario
 
         }
 
+
         private void Nuevobotton_Click(object sender, RoutedEventArgs e)
         {
-
-
 
         }
 
